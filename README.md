@@ -1,1 +1,1 @@
-# probability_theory
+### ДЗ по теории вероятности GB
